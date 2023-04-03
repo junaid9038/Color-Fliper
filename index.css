@@ -1,0 +1,74 @@
+ body{
+    background-color: pink;
+    margin: 0px;
+ }
+ #nav{
+    height: 10vh;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(32, 192, 186);
+   
+   
+   
+    
+}
+.div-nav{
+    height: 100%;
+    width: 300px;
+    
+}
+.linl-class{
+    height: 100%;
+    width: 300px;
+    
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+    overflow: hidden;
+    
+}
+
+
+.linl-class span a{
+    text-decoration: none;
+    margin-top: 25px;
+    
+}
+.linl-class span a:hover{
+    color: rgb(189, 66, 14);
+}
+.container{
+    height: 100px;
+    width: 500px;
+    
+    text-align: center;
+    margin-top: 150px;
+    position: sticky;
+    left: 500px;
+    background-color: black;
+    color: white;
+    border-radius: 25%;
+    
+}
+.color{
+    color: blue;
+}
+.btn{
+    box-shadow: 10px 5px 5px rgb(51, 35, 35);
+}
+/* .nav-linl{
+ position: relative;
+
+}
+.nav-link li{
+    display: inline-block;
+    margin-right: 15px;
+    
+    
+}
+.nav-link li a{
+    font-size: 25px;
+    text-decoration: underline;  
+} */ 
